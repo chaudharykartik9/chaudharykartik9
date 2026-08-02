@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently building MERN applications and strengthening my DSA skills<br><br>👯 I’m looking to collaborate on Open Source and JavaScript-based projects<br><br>🤝 I’m looking for help with GSoC preparation and contributing to large codebases<br><br>🌱 I’m currently learning React, TypeScript and Software Engineering Fundamentals<br><br>💬 Ask me about JavaScript, React, Git, GitHub and Problem Solving<br><br>⚡ Fun fact: I enjoy turning ideas into web applications and learning how real-world software is built<br>
 
 ## 🌐 Socials:
 
